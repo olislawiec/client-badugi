@@ -1,0 +1,13 @@
+ <!DOCTYPE ksiazka [
+ 
+<!ELEMENT ksiazka (tytul,listaautorow,wprowadzenie,rozdzial+)>
+<!ELEMENT tytul (#CDATA)>
+<!ELEMENT listaautorow (#CDATA)>
+<!ELEMENT wprowadzenie (#CDATA)>
+<!ELEMENT rozdzial (tytulrozdzialu,nrstrony,sekcja+)>
+<!ELEMENT tytulrozdzialu (#CDATA)>
+<!ELEMENT nrstrony (#CDATA)>
+<!ELEMENT sekcja (tytulsekcji,akapit*)>
+<!ELEMENT tytulsekcji (#CDATA)>
+<!ELEMENT akapit (#CDATA)>
+]>

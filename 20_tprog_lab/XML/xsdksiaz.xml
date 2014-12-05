@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ksiazka>
+ <tytul>Dzieci z Bullerbyn</tytul>
+ <listaautorow>Astrid Lindgren</listaautorow>
+ <wprowadzenie>Dzieci z Bullerbyn to powieść napisana w 1947 roku przez
+  popularna szwedzką pisarkę dzieciecą - Astrid Lindgren. Książka opisuje
+  życie sześciorga dzieci z malutkiej szwedzkiej wioski Bullerbyn.
+  Bohaterowie to: rodzeństwo Lisa, Lasse i Bosse, siostry Anna i Britta
+  oraz jedynak Olle, któremu w dalszej części książki rodzi się
+  siostrzyczka - Kerstin. Oni i ich rodzice oraz dziadziuś Anny i Britty
+  to wszyscy mieszkańcy wsi.
+  </wprowadzenie>
+  <rozdzial>
+    <tytulrozdzialu>Część I. My - dzieci z Bullerbyn</tytulrozdzialu>
+    <nrstrony>5</nrstrony>
+    <sekcja>
+      <tytulsekcji>Bullerbyn to bardzo mała wioska</tytulsekcji>
+      <akapit>Bullerbyn to bardzo mała wioska, położona w Szwecji.
+      W wiosce tej znajdowały się tylko trzy zagrody i mieszkało
+      w niej sześcioro dzieci. W Zagrodzie Środkowej żyli Lisa,
+      Lasse i Bosse, w Zagrodzie Północnej Britta i Anna,
+      a w Zagrodzie Południowej Olle.
+      </akapit>
+    </sekcja>
+  </rozdzial>
+  <rozdzial>
+    <tytulrozdzialu>Część II. W Bullerbyn jest zawsze wesoło</tytulrozdzialu>
+    <nrstrony>8</nrstrony>
+    <sekcja>
+      <tytulsekcji>Trudno wytrzymać z braćmi</tytulsekcji>
+      <akapit>Dawniej Lisa mieszkała z braćmi w jednym pokoju.
+      Czasami przyjemnie było mieszkać razem. Lasse wieczorami,
+      zaraz po zgaszeniu światła, snuł różne opowieści o duchach.
+      Pewnego wieczoru opowiadał historię o duchu, który krążył
+      po domu i przestawiał meble. Nagle jedno z krzeseł zaczęło
+      się przesuwać. Lisa przestraszyła się, myślała, że ten duch
+      nawiedził ich dom, ale to tylko bracia przywiązali sznurek
+      do krzesła i pociągali za niego w ten sposób,
+      by mogło się poruszać.
+      </akapit>
+      <akapit>Bosse nie opowiadał historii o duchach,
+      tylko o swoich przygodach, w jakich będzie brał udział,
+      gdy zostanie wodzem indiańskim.
+      </akapit>
+      <akapit>Gdy Lisa mieszkała ze swoimi braćmi w jednym pokoju,
+      nie mogła o niczym decydować. Wieczorem, kiedy chciała poczytać,
+      Lasse gasił światło. Chciał opowiadać historie o duchach.
+      Innym razem Lisa była senna. Chłopcy nie gasili światła,
+      bo chcieli się jeszcze bawić.
+      </akapit>
+      <akapit>Zagrody Środkowa i Południowa leżały bardzo blisko
+      siebie. Rosła między nimi stara lipa. Gdy Lasse i Bosse chcieli
+      odwiedzić Ollego, nie musieli chodzić po schodach, tylko
+      przechodzili po gałęziach lipy prosto do pokoju kolegi.
+      </akapit>
+    </sekcja>
+    <sekcja>
+      <tytulsekcji>Moje najprzyjemniejsze urodziny</tytulsekcji>
+    </sekcja>
+  </rozdzial>
+</ksiazka>
