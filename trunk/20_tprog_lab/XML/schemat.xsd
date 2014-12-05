@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+<xsd:element name="ksiazka">
+<xsd:complexType>
+<xsd:sequence>
+<xsd:element name="tytul" type="xsd:string"/>
+<xsd:element name="listaautorow" type="xsd:string"/>
+<xsd:element name="wprowadzenie" type="xsd:string"/>
+<xsd:element name="rozdzial" minOccurs="1" maxOccurs="unbounded">
+<xsd:complexType>
+<xsd:sequence>
+<xsd:element name="tytulrozdzialu" type="xsd:string"/>
+<xsd:element name="nrstrony" type="xsd:string"/>
+<xsd:element name="sekcja" minOccurs="1" maxOccurs="unbounded">
+<xsd:complexType>
+<xsd:sequence>
+<xsd:element name="tytulsekcji" type="xsd:string"/>
+<xsd:element name="akapit" type="xsd:string" minOccurs="0" maxOccurs="unbounded"/>
+</xsd:sequence>
+</xsd:complexType>
+</xsd:element>
+</xsd:sequence>
+</xsd:complexType>
+</xsd:element>
+</xsd:sequence>
+</xsd:complexType>
+</xsd:element>
+
+</xsd:schema>
